@@ -1,4 +1,4 @@
-# Hi, I'm Prahit Viraaj Reddy 
+# Hi, I'm Prahit Viraaj Reddy 👋
 
 ### Python Developer • Machine Learning • Application Development
 
@@ -16,18 +16,28 @@ A full-stack family management application built with **Python, Streamlit, and P
 
 **Features:**
 
-* Interactive family tree
-* Family profiles and relationships
-* Photo albums
-* Diary system
-* Timeline
-* Authentication
-* Comments and reactions
-* Database-backed data management
+- Interactive family tree
+- Family profiles and relationships
+- Photo albums
+- Diary system
+- Timeline
+- Authentication
+- Comments and reactions
+- Database-backed data management
 
 **Live Demo:** https://familybook-7ff4.onrender.com/
 
 **Stack:** Python · Streamlit · PostgreSQL · SQL · Authentication
+
+---
+
+### 📊 Results
+
+An academic analytics portal that helps students **access academic performance, calculate SGPA/CGPA, visualize subject-wise trends, compare results, and export reports** through an interactive dashboard.
+
+**Live Demo:** https://academic-results.streamlit.app/
+
+**Stack:** Python · Streamlit
 
 ---
 
@@ -52,14 +62,6 @@ The project separates **model training from the application layer** and includes
 **Stack:** Python · Pandas · Scikit-learn · Streamlit
 
 ---
-### 📊 Results
-
-An academic analytics portal that helps students **access academic performance, calculate SGPA/CGPA, visualize subject-wise trends, compare results, and export reports** through an interactive dashboard.
-
-**Live Demo:** https://academic-results.streamlit.app/
-
-**Stack:** Python · Streamlit
-
 
 ## 🛠️ Technologies
 
@@ -83,11 +85,11 @@ Git · GitHub
 
 ## 📌 Currently Building
 
-* Better structured Python applications
-* Database-backed applications
-* Machine-learning projects
-* Cleaner software architecture
-* Testing and deployment workflows
+- Better structured Python applications
+- Database-backed applications
+- Machine-learning projects
+- Cleaner software architecture
+- Testing and deployment workflows
 
 ---
 
