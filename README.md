@@ -14,7 +14,7 @@ My projects combine **Python, machine learning, databases, and interactive web a
 
 A full-stack family management application built with **Python, Streamlit, and PostgreSQL**.
 
-Features include:
+**Features:**
 
 * Interactive family tree
 * Family profiles and relationships
@@ -25,6 +25,8 @@ Features include:
 * Comments and reactions
 * Database-backed data management
 
+**Live Demo:** https://familybook-7ff4.onrender.com/
+
 **Stack:** Python · Streamlit · PostgreSQL · SQL · Authentication
 
 ---
@@ -33,7 +35,7 @@ Features include:
 
 A machine-learning application that predicts used-car prices using regression models and feature engineering.
 
-The project includes model comparison, evaluation, feature analysis, and an interactive Streamlit interface.
+The project includes **model comparison, evaluation, feature analysis, and an interactive Streamlit interface**.
 
 **Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
@@ -43,11 +45,21 @@ The project includes model comparison, evaluation, feature analysis, and an inte
 
 A machine-learning application for classifying weather conditions from weather data.
 
-The project separates model training from the application layer and includes an interactive prediction interface.
+The project separates **model training from the application layer** and includes an interactive prediction interface.
+
+**Live Demo:** https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/
 
 **Stack:** Python · Pandas · Scikit-learn · Streamlit
 
 ---
+### 📊 Results
+
+An academic analytics portal that helps students **access academic performance, calculate SGPA/CGPA, visualize subject-wise trends, compare results, and export reports** through an interactive dashboard.
+
+**Live Demo:** https://academic-results.streamlit.app/
+
+**Stack:** Python · Streamlit
+
 
 ## 🛠️ Technologies
 
