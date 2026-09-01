@@ -1,10 +1,10 @@
 # Hi, I'm Prahit Viraaj Reddy 👋
 
-### Python Developer • Machine Learning • Application Development
+### Data Analyst • Aspiring Data Scientist • Python & Machine Learning
 
-I like building practical software that turns ideas into working applications.
+I enjoy working with data to discover patterns, generate insights, and build practical solutions.
 
-My projects combine **Python, machine learning, databases, and interactive web apps**, with a focus on learning how real applications are designed, built, and deployed.
+My projects combine **Python, SQL, data analysis, visualization, databases, and machine learning**, with a focus on turning data into meaningful and useful applications.
 
 ---
 
@@ -12,40 +12,39 @@ My projects combine **Python, machine learning, databases, and interactive web a
 
 ### 🌳 Familybook
 
-A full-stack family management application built with **Python, Streamlit, and PostgreSQL**.
+A full-stack family management application built with **Python, Streamlit, and PostgreSQL**, featuring structured data management and interactive visualization.
 
-**Features:**
+**Highlights:**
 
-- Interactive family tree
-- Family profiles and relationships
-- Photo albums
-- Diary system
-- Timeline
-- Authentication
-- Comments and reactions
-- Database-backed data management
+* Interactive family tree visualization
+* Family profiles and relationships
+* Photo albums
+* Diary and timeline features
+* Authentication
+* Comments and reactions
+* PostgreSQL-backed data management
 
 **Live Demo:** https://familybook-7ff4.onrender.com/
 
-**Stack:** Python · Streamlit · PostgreSQL · SQL · Authentication
+**Stack:** Python · SQL · PostgreSQL · Streamlit
 
 ---
 
 ### 📊 Results
 
-An academic analytics portal that helps students **access academic performance, calculate SGPA/CGPA, visualize subject-wise trends, compare results, and export reports** through an interactive dashboard.
+An academic analytics portal that helps students **analyze academic performance, calculate SGPA/CGPA, visualize subject-wise trends, compare results, and export reports** through an interactive dashboard.
 
 **Live Demo:** https://academic-results.streamlit.app/
 
-**Stack:** Python · Streamlit
+**Stack:** Python · Streamlit · Data Analysis
 
 ---
 
 ### 🚗 Car Price Prediction
 
-A machine-learning application that predicts used-car prices using regression models and feature engineering.
+A machine-learning project focused on predicting used-car prices through **data preprocessing, feature engineering, model comparison, and evaluation**.
 
-The project includes **model comparison, evaluation, feature analysis, and an interactive Streamlit interface**.
+The project explores different regression approaches and provides an interactive interface for predictions.
 
 **Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
@@ -53,9 +52,9 @@ The project includes **model comparison, evaluation, feature analysis, and an in
 
 ### 🌦️ Global Weather Classifier
 
-A machine-learning application for classifying weather conditions from weather data.
+A machine-learning project for classifying weather conditions from weather data.
 
-The project separates **model training from the application layer** and includes an interactive prediction interface.
+The project includes **data processing, model training, prediction, and an interactive application layer**.
 
 **Live Demo:** https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/
 
@@ -65,15 +64,19 @@ The project separates **model training from the application layer** and includes
 
 ## 🛠️ Technologies
 
-**Languages**
+**Programming & Querying**
 
 Python · SQL
 
-**Data & Machine Learning**
+**Data Analysis**
 
-Pandas · NumPy · Scikit-learn
+Pandas · NumPy · Data Cleaning · Data Exploration
 
-**Application Development**
+**Machine Learning**
+
+Scikit-learn · Feature Engineering · Model Evaluation
+
+**Data Applications**
 
 Streamlit · PostgreSQL
 
@@ -85,11 +88,13 @@ Git · GitHub
 
 ## 📌 Currently Building
 
-- Better structured Python applications
-- Database-backed applications
-- Machine-learning projects
-- Cleaner software architecture
-- Testing and deployment workflows
+* Data analysis projects using Python and SQL
+* Stronger SQL and database skills
+* Data visualization and exploratory analysis
+* Statistics for data science
+* Machine-learning projects
+* Better understanding of model evaluation and feature engineering
+* Testing and deployment workflows
 
 ---
 
@@ -97,12 +102,14 @@ Git · GitHub
 
 I learn by building.
 
-Instead of stopping at notebooks or small experiments, I try to turn ideas into complete applications with a user interface, data layer, and working functionality.
+I try to go beyond simply training models or creating notebooks by turning data-driven ideas into practical projects with **data processing, analysis, visualization, machine learning, and usable interfaces**.
 
 ---
 
 ## 📊 GitHub
 
-Most of my repositories are experiments and applications built while developing my Python, machine-learning, database, and software-engineering skills.
+My repositories showcase my journey across **data analysis, machine learning, Python, SQL, databases, and data-driven applications**.
+
+I'm continuously working on strengthening my skills and building projects that demonstrate practical problem-solving with data.
 
 Thanks for visiting! 👋
