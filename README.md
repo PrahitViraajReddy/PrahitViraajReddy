@@ -1,4 +1,4 @@
-# Hi, I'm Prahit 👋
+# Hi, I'm Prahit Viraaj Reddy 
 
 ### Python Developer • Machine Learning • Application Development
 
