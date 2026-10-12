@@ -24,6 +24,8 @@ I work with **Python, SQL, Excel, Power BI, Pandas, and machine learning** to cl
 
 ### 📊 [Results — Academic Results Analytics Portal](https://github.com/PrahitViraajReddy/Results)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2ea44f?style=for-the-badge)](https://academic-results.streamlit.app/) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Results)
+
 An interactive academic analytics application built with **Python, Pandas, Streamlit, OpenPyXL, Plotly, and ReportLab**.
 
 **What it does:**
@@ -36,25 +38,25 @@ An interactive academic analytics application built with **Python, Pandas, Strea
 - PDF report generation
 - Excel-based data processing
 
-**Live Demo:** https://academic-results.streamlit.app/
-
 **Stack:** Python · Pandas · OpenPyXL · Streamlit · Plotly · ReportLab
 
 ---
 
 ### 🌦️ [Global Weather Classifier](https://github.com/PrahitViraajReddy/Global-Weather-Classifier)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2ea44f?style=for-the-badge)](https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Global-Weather-Classifier)
+
 A machine-learning application for classifying weather conditions from structured weather data.
 
 The project covers **data preprocessing, exploratory analysis, model training, evaluation, and interactive prediction**.
-
-**Live Demo:** https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/
 
 **Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
 ---
 
 ### 🚗 [Car Price Prediction](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
 
 A machine-learning project focused on predicting used-car prices through **data preprocessing, feature engineering, regression modeling, and evaluation**.
 
@@ -63,6 +65,8 @@ A machine-learning project focused on predicting used-car prices through **data 
 ---
 
 ### 🌳 [Familybook](https://github.com/PrahitViraajReddy/Familybook)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2ea44f?style=for-the-badge)](https://familybook-7ff4.onrender.com/) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Familybook)
 
 A data-driven family management application with interactive family information and visualization features.
 
@@ -73,9 +77,17 @@ A data-driven family management application with interactive family information 
 - Diary and timeline features
 - Interactive application interface
 
-**Live Demo:** https://familybook-7ff4.onrender.com/
-
 **Stack:** Python · Streamlit · SQL
+
+---
+
+### 📦 [Nationwide Demand Forecasting & Inventory Optimization](https://github.com/PrahitViraajReddy/Nationwide-Demand-Forecasting-and-Inventory-Optimization)
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Nationwide-Demand-Forecasting-and-Inventory-Optimization)
+
+An in-progress project focused on retail demand forecasting and inventory decision support using the M5 Forecasting dataset.
+
+**Status:** In progress — a live demo will be added after the application is implemented and deployed.
 
 ---
 
@@ -123,7 +135,7 @@ Currently focusing on:
 
 - 💼 [LinkedIn](https://linkedin.com/in/prahit-viraaj-reddy-madupu-5169332ba)
 - 🐙 [GitHub](https://github.com/PrahitViraajReddy)
-- 📧 prahitviraajreddy@gmail.com
+- 📧 prahitviraajreddym@gmail.com
 
 ---
 
