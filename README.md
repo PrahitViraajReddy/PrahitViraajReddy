@@ -1,143 +1,132 @@
-# Hi, I'm Prahit Viraaj Reddy 👋
+# Prahit Viraaj Reddy
 
-### Data Analyst | Python | SQL | Power BI | Excel
+**Aspiring Data Scientist · Python · SQL · Machine Learning · Power BI**
 
-Final-year **B.Tech Artificial Intelligence & Data Science** student focused on building practical, data-driven solutions.
+Final-year B.Tech student in Artificial Intelligence & Data Science at St. Mary’s Group of Institutions, Hyderabad. I build practical data applications and machine-learning projects, from data preparation and evaluation to interactive user interfaces.
 
-I work with **Python, SQL, Excel, Power BI, Pandas, and machine learning** to clean data, explore patterns, build dashboards, and turn raw data into useful insights.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech in Artificial Intelligence & Data Science
-- 📊 Focused on **Data Analytics, Business Intelligence, and Data Science**
-- 🐍 Comfortable with Python-based data analysis and automation
-- 🗄️ Building stronger SQL and database skills
-- 📈 Interested in dashboards, EDA, reporting, and business-focused analytics
-- 🤖 Exploring machine learning as a foundation for long-term Data Science growth
-- 🚀 I learn by building real projects rather than only following tutorials
+[GitHub](https://github.com/PrahitViraajReddy) · [LinkedIn](https://linkedin.com/in/prahit-viraaj-reddy-madupu-5169332ba) · [Email](mailto:prahitviraajreddym@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+## Portfolio at a glance
 
-### 📊 [Results — Academic Results Analytics Portal](https://github.com/PrahitViraajReddy/Results)
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2ea44f?style=for-the-badge)](https://academic-results.streamlit.app/) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Results)
-
-An interactive academic analytics application built with **Python, Pandas, Streamlit, OpenPyXL, Plotly, and ReportLab**.
-
-**What it does:**
-- Student result lookup using Hall Ticket Number
-- SGPA and CGPA analysis
-- Subject-wise performance analysis
-- SGPA progression across semesters
-- Student-to-student comparison
-- Interactive visualizations
-- PDF report generation
-- Excel-based data processing
-
-**Stack:** Python · Pandas · OpenPyXL · Streamlit · Plotly · ReportLab
+- **Primary direction:** Data Science and applied machine learning
+- **Related strengths:** Data analysis, SQL, dashboards, and reporting
+- **Working style:** Build end-to-end projects, document decisions, and make results easy to inspect
+- **Current focus:** Strengthening SQL, statistics, model evaluation, and production-ready project workflows
 
 ---
 
-### 🌦️ [Global Weather Classifier](https://github.com/PrahitViraajReddy/Global-Weather-Classifier)
+## Featured projects
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2ea44f?style=for-the-badge)](https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Global-Weather-Classifier)
+### 1. Results — Academic Results Analytics Portal
 
-A machine-learning application for classifying weather conditions from structured weather data.
+**A deployed application for exploring academic performance.**
 
-The project covers **data preprocessing, exploratory analysis, model training, evaluation, and interactive prediction**.
+[Open live app](https://academic-results.streamlit.app/) · [Source code](https://github.com/PrahitViraajReddy/Results)
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+**What it does**
+- Looks up student results using a hall-ticket number
+- Calculates SGPA and CGPA
+- Supports subject-level analysis and semester progression
+- Compares student performance
+- Exports reports to PDF and works with Excel-based data
+
+**Built with:** Python · Pandas · Streamlit · OpenPyXL · Plotly · ReportLab
+
+**Status:** Deployed
 
 ---
 
-### 🚗 [Car Price Prediction](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
+### 2. Global Weather Classifier
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
+**A machine-learning workflow for classifying weather conditions from structured weather data.**
 
-A machine-learning project focused on predicting used-car prices through **data preprocessing, feature engineering, regression modeling, and evaluation**.
+[Open live app](https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/) · [Source code](https://github.com/PrahitViraajReddy/Global-Weather-Classifier)
 
-**Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+**What it covers**
+- Data preparation and exploratory data analysis
+- Feature engineering and model training
+- Model evaluation and interactive predictions
+
+**Recorded project result:** Approximately 116,933 rows and 0.71 balanced accuracy. See the repository for the evaluation context and implementation details.
+
+**Built with:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+
+**Status:** Deployed
 
 ---
 
-### 🌳 [Familybook](https://github.com/PrahitViraajReddy/Familybook)
+### 3. Car Price Prediction
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-2ea44f?style=for-the-badge)](https://familybook-7ff4.onrender.com/) [![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Familybook)
+**A regression project that estimates used-car selling prices from vehicle attributes.**
 
-A data-driven family management application with interactive family information and visualization features.
+[Source code and documentation](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
 
-**Highlights:**
-- Family relationship visualization
-- Family profiles
+**What it covers**
+- Data cleaning and feature engineering
+- Regression-model comparison
+- R², MAE, and RMSE evaluation
+- Feature-importance analysis and a Streamlit interface
+
+**Built with:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+
+**Status:** Repository documentation available. Check the project README for reported results and setup instructions.
+
+---
+
+### 4. Familybook
+
+**A family information and relationship application.**
+
+[Open live app](https://familybook-7ff4.onrender.com/) · [Source code](https://github.com/PrahitViraajReddy/Familybook)
+
+**Highlights**
+- Family profiles and relationship visualisation
 - Photo albums
 - Diary and timeline features
-- Interactive application interface
 
-**Stack:** Python · Streamlit · SQL
+**Built with:** Python · Streamlit · SQL
 
----
-
-### 📦 [Nationwide Demand Forecasting & Inventory Optimization](https://github.com/PrahitViraajReddy/Nationwide-Demand-Forecasting-and-Inventory-Optimization)
-
-[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PrahitViraajReddy/Nationwide-Demand-Forecasting-and-Inventory-Optimization)
-
-An in-progress project focused on retail demand forecasting and inventory decision support using the M5 Forecasting dataset.
-
-**Status:** In progress — a live demo will be added after the application is implemented and deployed.
+**Status:** Deployed link available
 
 ---
 
-## 🛠️ Technical Skills
+## Technical toolkit
 
-**Languages & Querying**
-
-Python · SQL
-
-**Data Analysis**
-
-Pandas · NumPy · Data Cleaning · EDA · Statistics · Feature Engineering
-
-**Visualization & BI**
-
-Power BI · DAX · Excel · Tableau · Plotly · Matplotlib · Seaborn
-
-**Machine Learning**
-
-Scikit-learn · Linear Regression · Decision Trees · Random Forest · XGBoost · LightGBM · Model Evaluation
-
-**Databases & Tools**
-
-MySQL · PostgreSQL · Git · GitHub · Streamlit
+| Area | Tools and skills |
+|---|---|
+| Programming | Python |
+| Querying | SQL |
+| Data analysis | Pandas, NumPy, data cleaning, EDA, statistics |
+| Machine learning | Scikit-learn, regression, decision trees, random forests, feature engineering, model evaluation |
+| BI and visualisation | Power BI, DAX, Excel, Tableau, Plotly, Matplotlib, Seaborn |
+| Data and app tools | MySQL, PostgreSQL, Git, GitHub, Streamlit |
 
 ---
 
-## 📈 What I'm Building Toward
+## Current learning priorities
 
-**Data Analyst → Data Scientist**
-
-Currently focusing on:
-
-- Advanced SQL and analytical problem-solving
-- Excel and Power BI for business reporting
-- Exploratory Data Analysis and statistics
-- Data cleaning and feature engineering
-- Machine-learning fundamentals
-- End-to-end data projects
-- Clear technical documentation and deployment
+1. Advanced SQL and analytical problem-solving
+2. Statistics, experimentation, and reliable model evaluation
+3. End-to-end machine-learning projects with clear documentation
+4. Power BI and business-facing data storytelling
+5. Deployment, reproducibility, and maintainable Python workflows
 
 ---
 
-## 📫 Connect With Me
+## How I present project results
 
-- 💼 [LinkedIn](https://linkedin.com/in/prahit-viraaj-reddy-madupu-5169332ba)
-- 🐙 [GitHub](https://github.com/PrahitViraajReddy)
-- 📧 prahitviraajreddym@gmail.com
+I aim to make each project easy to review by documenting its purpose, workflow, technology choices, evaluation, limitations, and setup. Reported metrics are project-specific; they should be interpreted in the context of each repository rather than as guarantees of performance on new data.
 
 ---
 
-> **I learn by building.**  
-> My goal is to turn messy data into clear insights, useful applications, and measurable business value.
+## Connect
+
+- **LinkedIn:** [prahit-viraaj-reddy-madupu](https://linkedin.com/in/prahit-viraaj-reddy-madupu-5169332ba)
+- **GitHub:** [PrahitViraajReddy](https://github.com/PrahitViraajReddy)
+- **Email:** [prahitviraajreddym@gmail.com](mailto:prahitviraajreddym@gmail.com)
+
+---
+
+*I learn by building: turning raw data into useful analysis, tested models, and practical applications.*
