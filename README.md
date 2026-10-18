@@ -1,132 +1,203 @@
-# Prahit Viraaj Reddy
+# Prahit Viraaj Reddy — Data Science Portfolio
 
-**Aspiring Data Scientist · Python · SQL · Machine Learning · Power BI**
+**Python · SQL · Data Analysis · Machine Learning · Power BI**
 
-Final-year B.Tech student in Artificial Intelligence & Data Science at St. Mary’s Group of Institutions, Hyderabad. I build practical data applications and machine-learning projects, from data preparation and evaluation to interactive user interfaces.
+I’m a final-year B.Tech student in **Artificial Intelligence & Data Science** at St. Mary’s Group of Institutions, Hyderabad. I build practical data applications and ML projects, with an emphasis on the full workflow: understanding the problem, preparing data, evaluating results, and making the output usable.
 
 [GitHub](https://github.com/PrahitViraajReddy) · [LinkedIn](https://linkedin.com/in/prahit-viraaj-reddy-madupu-5169332ba) · [Email](mailto:prahitviraajreddym@gmail.com)
 
 ---
 
-## Portfolio at a glance
+## Portfolio status
 
-- **Primary direction:** Data Science and applied machine learning
-- **Related strengths:** Data analysis, SQL, dashboards, and reporting
-- **Working style:** Build end-to-end projects, document decisions, and make results easy to inspect
-- **Current focus:** Strengthening SQL, statistics, model evaluation, and production-ready project workflows
+| Focus | Current direction |
+|---|---|
+| Primary career goal | Data Scientist |
+| Adjacent roles | Data Analyst · BI Analyst |
+| Core tools | Python · SQL · Pandas · NumPy · Scikit-learn |
+| Applications & reporting | Streamlit · Power BI · Excel · Plotly |
+| Project approach | End-to-end implementation, transparent evaluation, documented limitations |
+
+This profile is a project index. Each project repository remains the source of truth for implementation, dependencies, evaluation details, and setup instructions.
 
 ---
 
-## Featured projects
+## Featured work
 
 ### 1. Results — Academic Results Analytics Portal
 
-**A deployed application for exploring academic performance.**
+**An interactive application for exploring academic performance.**
 
-[Open live app](https://academic-results.streamlit.app/) · [Source code](https://github.com/PrahitViraajReddy/Results)
+[**Launch live app →**](https://academic-results.streamlit.app/) · [**Read source code →**](https://github.com/PrahitViraajReddy/Results)
 
-**What it does**
-- Looks up student results using a hall-ticket number
-- Calculates SGPA and CGPA
-- Supports subject-level analysis and semester progression
-- Compares student performance
-- Exports reports to PDF and works with Excel-based data
+**Problem**
 
-**Built with:** Python · Pandas · Streamlit · OpenPyXL · Plotly · ReportLab
+Academic results are often spread across tabular records, making it harder to look up an individual result, understand semester progress, or compare performance.
 
-**Status:** Deployed
+**What the application supports**
+- Student result lookup using a hall-ticket number
+- SGPA and CGPA calculations
+- Subject-wise performance analysis
+- Semester progression and interactive charts
+- Student-to-student comparison
+- Excel-based data processing
+- PDF report generation
+
+**Implementation**
+
+| Layer | Tools |
+|---|---|
+| Data handling | Python · Pandas · OpenPyXL |
+| Application | Streamlit |
+| Charts | Plotly |
+| Reports | ReportLab |
+
+**Workflow**
+
+```mermaid
+flowchart TD
+    A[Academic spreadsheet] --> B[Load and process records]
+    B --> C[Find student / select analysis]
+    C --> D[Calculate SGPA and CGPA]
+    C --> E[Subject and semester analysis]
+    D --> F[Interactive results interface]
+    E --> F
+    F --> G[Charts and comparisons]
+    F --> H[PDF report export]
+```
+
+**Status:** Deployed. Use the live app to explore the interface; consult the repository for implementation details.
 
 ---
 
 ### 2. Global Weather Classifier
 
-**A machine-learning workflow for classifying weather conditions from structured weather data.**
+**A machine-learning application for classifying weather conditions from structured weather data.**
 
-[Open live app](https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/) · [Source code](https://github.com/PrahitViraajReddy/Global-Weather-Classifier)
+[**Launch live app →**](https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/) · [**Read source code →**](https://github.com/PrahitViraajReddy/Global-Weather-Classifier)
 
-**What it covers**
-- Data preparation and exploratory data analysis
-- Feature engineering and model training
-- Model evaluation and interactive predictions
+**Project workflow**
+1. Prepare and inspect the weather dataset.
+2. Explore distributions and relationships.
+3. Prepare features for machine learning.
+4. Train and compare classification models.
+5. Evaluate performance and expose predictions through an interactive app.
 
-**Recorded project result:** Approximately 116,933 rows and 0.71 balanced accuracy. See the repository for the evaluation context and implementation details.
+**Recorded scale and result:** Approximately **116,933 rows** and **0.71 balanced accuracy** in the project’s recorded evaluation. The repository should be consulted for the evaluation setup and metric context; this figure is not a guarantee for unseen data.
 
-**Built with:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+**Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
-**Status:** Deployed
+**Status:** Deployed.
 
 ---
 
 ### 3. Car Price Prediction
 
-**A regression project that estimates used-car selling prices from vehicle attributes.**
+**A regression project for estimating used-car prices from vehicle attributes.**
 
-[Source code and documentation](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
+[**Read project and documentation →**](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
 
 **What it covers**
-- Data cleaning and feature engineering
+- Data preparation and feature engineering
 - Regression-model comparison
-- R², MAE, and RMSE evaluation
-- Feature-importance analysis and a Streamlit interface
+- Evaluation with R², MAE, and RMSE
+- Feature-importance analysis
+- A Streamlit-based prediction interface
 
-**Built with:** Python · Pandas · NumPy · Scikit-learn · Streamlit
+**Stack:** Python · Pandas · NumPy · Scikit-learn · Streamlit
 
-**Status:** Repository documentation available. Check the project README for reported results and setup instructions.
+**Status:** Repository and README available. The project README documents reported model results and local setup.
 
 ---
 
 ### 4. Familybook
 
-**A family information and relationship application.**
+**A family information application with relationship visualisation and personal records.**
 
-[Open live app](https://familybook-7ff4.onrender.com/) · [Source code](https://github.com/PrahitViraajReddy/Familybook)
+[**Open live app →**](https://familybook-7ff4.onrender.com/) · [**Read source code →**](https://github.com/PrahitViraajReddy/Familybook)
 
-**Highlights**
+**Features**
 - Family profiles and relationship visualisation
 - Photo albums
 - Diary and timeline features
+- Interactive application interface
 
-**Built with:** Python · Streamlit · SQL
+**Stack:** Python · Streamlit · SQL
 
-**Status:** Deployed link available
+**Status:** A deployed link is available; service availability may vary.
+
+---
+
+## Project comparison
+
+| Project | Domain | Main technical work | Demo |
+|---|---|---|---|
+| Results | Academic analytics | Data processing, calculations, charts, PDF export | [Live](https://academic-results.streamlit.app/) |
+| Global Weather Classifier | Machine learning | Classification, feature preparation, evaluation | [Live](https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/) |
+| Car Price Prediction | Machine learning | Regression, model comparison, feature importance | [Repository](https://github.com/PrahitViraajReddy/Car-Price-Prediction) |
+| Familybook | Data application | Structured records, relationships, interactive UI | [Live](https://familybook-7ff4.onrender.com/) |
 
 ---
 
 ## Technical toolkit
 
-| Area | Tools and skills |
+| Category | Tools and concepts |
 |---|---|
 | Programming | Python |
 | Querying | SQL |
-| Data analysis | Pandas, NumPy, data cleaning, EDA, statistics |
-| Machine learning | Scikit-learn, regression, decision trees, random forests, feature engineering, model evaluation |
-| BI and visualisation | Power BI, DAX, Excel, Tableau, Plotly, Matplotlib, Seaborn |
-| Data and app tools | MySQL, PostgreSQL, Git, GitHub, Streamlit |
+| Data analysis | Pandas · NumPy · Data cleaning · Exploratory Data Analysis |
+| Statistics & ML | Statistics · Feature engineering · Scikit-learn · Regression · Decision trees · Random forests · Model evaluation |
+| BI & visualisation | Power BI · DAX · Excel · Tableau · Plotly · Matplotlib · Seaborn |
+| Data storage | MySQL · PostgreSQL |
+| Apps & workflow | Streamlit · Git · GitHub |
 
 ---
 
-## Current learning priorities
+## How I approach a data project
 
-1. Advanced SQL and analytical problem-solving
-2. Statistics, experimentation, and reliable model evaluation
-3. End-to-end machine-learning projects with clear documentation
-4. Power BI and business-facing data storytelling
-5. Deployment, reproducibility, and maintainable Python workflows
+```mermaid
+flowchart LR
+    A[Define the problem] --> B[Inspect the data]
+    B --> C[Clean and prepare]
+    C --> D[Explore patterns]
+    D --> E[Build analysis or model]
+    E --> F[Evaluate results]
+    F --> G[Present through an app or report]
+    G --> H[Document limitations and next steps]
+```
+
+I aim to make projects understandable and reproducible, rather than presenting a model score without context. Metrics depend on the dataset, split strategy, target definition, and evaluation method; each project’s repository is the place to inspect those details.
 
 ---
 
-## How I present project results
+## Current development priorities
 
-I aim to make each project easy to review by documenting its purpose, workflow, technology choices, evaluation, limitations, and setup. Reported metrics are project-specific; they should be interpreted in the context of each repository rather than as guarantees of performance on new data.
+- **SQL:** joins, aggregations, subqueries, CTEs, window functions, and analytical problem-solving
+- **Statistics:** distributions, sampling, hypothesis testing, and interpretation
+- **Machine learning:** sound validation, leakage prevention, baselines, and error analysis
+- **BI:** Power BI, DAX, and communicating business-relevant findings
+- **Project quality:** reproducible setup, clear documentation, useful interfaces, and honest limitations
+
+---
+
+## Roadmap
+
+| Priority | Goal |
+|---|---|
+| 1 | Strengthen SQL and core analytical reasoning |
+| 2 | Improve statistical foundations and ML evaluation |
+| 3 | Build stronger end-to-end data science case studies |
+| 4 | Improve dashboards and business-facing communication |
+| 5 | Keep projects documented, reproducible, and easy to run |
 
 ---
 
 ## Connect
 
-- **LinkedIn:** [prahit-viraaj-reddy-madupu](https://linkedin.com/in/prahit-viraaj-reddy-madupu-5169332ba)
+- **LinkedIn:** [Prahit Viraaj Reddy](https://linkedin.com/in/prahit-viraaj-reddy-madupu-5169332ba)
 - **GitHub:** [PrahitViraajReddy](https://github.com/PrahitViraajReddy)
 - **Email:** [prahitviraajreddym@gmail.com](mailto:prahitviraajreddym@gmail.com)
 
 ---
 
-*I learn by building: turning raw data into useful analysis, tested models, and practical applications.*
+*Learning by building — turning data into useful analysis, evaluated models, and practical applications.*
