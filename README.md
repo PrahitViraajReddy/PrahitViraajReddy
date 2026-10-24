@@ -128,6 +128,26 @@ flowchart TD
 
 ---
 
+### 5. Experimentation & Causal Inference Platform
+
+**A statistical analytics platform for planning A/B tests, analyzing experiment outcomes, and exploring treatment effects when randomization is unavailable.**
+
+[**Open live frontend →**](https://experimentation-and-causal-inference-platform-fronte-aas97gvog.vercel.app/) · [**Open API documentation →**](https://experimentation-and-causal-inference-81xv.onrender.com/docs) · [**Read source code →**](https://github.com/PrahitViraajReddy/Experimentation-and-Causal-Inference-Platform)
+
+**What it covers**
+- Sample-size and statistical power planning
+- Reproducible synthetic A/B test data
+- Welch’s t-test, chi-square test, and two-proportion z-test
+- Bonferroni and Benjamini–Hochberg multiple-comparison corrections
+- Download-on-demand reference data with schema validation
+- A React and TypeScript frontend backed by a FastAPI service
+
+**Stack:** React · TypeScript · Python · FastAPI · NumPy · SciPy · Statsmodels · Pytest
+
+**Status:** Foundation implementation. Sequential inference, Bayesian analysis, propensity matching, difference-in-differences, and synthetic control are roadmap areas—not claims of completed functionality. Refer to the project README for implementation status, testing, and limitations.
+
+---
+
 ## Project comparison
 
 | Project | Domain | Main technical work | Demo |
@@ -136,6 +156,7 @@ flowchart TD
 | Global Weather Classifier | Machine learning | Classification, feature preparation, evaluation | [Live](https://prahitviraajreddy-global-weather-classifier-app-vnr7xd.streamlit.app/) |
 | Car Price Prediction | Machine learning | Regression, model comparison, feature importance | [Repository](https://github.com/PrahitViraajReddy/Car-Price-Prediction) |
 | Familybook | Data application | Structured records, relationships, interactive UI | [Live](https://familybook-7ff4.onrender.com/) |
+| Experimentation & Causal Inference Platform | Statistics & experimentation | A/B test planning, hypothesis testing, multiple-comparison correction | [Live frontend](https://experimentation-and-causal-inference-platform-fronte-aas97gvog.vercel.app/) |
 
 ---
 
