@@ -94,7 +94,7 @@ flowchart TD
 ### 3. Car Price Prediction
 
 **A regression project for estimating used-car prices from vehicle attributes.**
-
+[**Launch live app →**](https://car-price-prediction-jxco5kdfo4uqgcxyeu7ack.streamlit.app/)
 [**Read project and documentation →**](https://github.com/PrahitViraajReddy/Car-Price-Prediction)
 
 **What it covers**
